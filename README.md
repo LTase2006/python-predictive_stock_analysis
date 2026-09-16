@@ -1,0 +1,1 @@
+predictive stock analysis of NVIDIA, using a linear regression model that gathers data from API datasheets
